@@ -8,6 +8,6 @@ One project focused on semantic segmentation of unstructured 3D point clouds. A 
 
 A second project focused on tabular structured data which corresponded to the unstructured image data collected through APPL. This was rich data and thus a variety of research questions arose throughout this collaboration. The first semester, students focused on modeling and analyzing genotypic variation in plant growth dynamics. The second semester, students moved to predictive modeling. In one portion of the predictive modeling, students wanted to identify early spectral signals that could be used in predicting long-term plant performance. Another aspect of the predictive modeling focused on the ability to predict final biomass from early growth (the first two weeks of growth).
 
-Final semster project presentations can be found in the Oak Ridge folder.
+Final semester project presentations can be found in the Oak Ridge folder.
 
 
