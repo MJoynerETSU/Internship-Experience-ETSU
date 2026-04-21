@@ -10,4 +10,10 @@ A second project focused on tabular structured data which corresponded to the un
 
 Final semester project presentations can be found in the Oak Ridge folder.
 
+## Sandia National Laboratory Collaboration
+
+The MS in Applied Data Science pogram has partnered with Sandia National Laboratory for two semesters on a project exploring a hybrid modeling approach for epidemiological analysis. While traditional epidemiological models are easier to implement and enables the computation of key epidemiological parameters like the basic reproduction number and the potential duration of infectiousness, they ignore individual interactions and thus do not always represent data associated with the spread of the disease. Agent-based models are useful for studying individual interactions that influence the spread of the disease; however, they are computationally intensive. In this project, students explore data-driven modeling which incorporates machine learning and statistical methods within a differential equation modeling framework through the use of two mechanisms: universal differential equations and a neural ODE approach. 
+
+Final semester project presentations can be found in the Sandia folder, along with a Master's thesis which extended this initial project, using a stochastic differential equation in conjunction with a neural network.
+
 
